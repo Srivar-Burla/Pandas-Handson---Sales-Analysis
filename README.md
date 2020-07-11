@@ -22,7 +22,7 @@ After Data cleansing, move to the data exploration section. In this section, try
 
 
 
-To answer these questions, walk through the following pandas & matplotlib methods.
+To answer these questions, walk through the following pandas & matplotlib methods:
 - Concatenating multiple csvs together to create a new DataFrame (pd.concat)
 - Adding columns
 - Parsing cells as strings to make new columns (.str)
