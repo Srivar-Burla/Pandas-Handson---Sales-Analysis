@@ -2,10 +2,14 @@
 Explore real world Sales Data of the US and complete a few data pre-processing tasks that are generally used in data science using the Python Pandas library.
 
 
+
+
 Start by cleaning the data. The following Tasks are to be completed:
 - Drop NaN values from DataFrame
 - Remove rows based on a condition
 - Change the type of columns (to_numeric, to_datetime, astype)
+
+
 
 
 After Data cleansing, move to the data exploration section. In this section, try to answer these 5 business questions related to the given data data:
@@ -14,6 +18,8 @@ After Data cleansing, move to the data exploration section. In this section, try
 - What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
+
+
 
 
 To answer these questions, walk through the following pandas & matplotlib methods.
